@@ -1,6 +1,6 @@
-# 📚 Campus Food Order Service
+# Campus Food Order Service
 
-## 📌 Project Overview
+##  Project Overview
 The Campus Food Order Service is a Java-based application designed to simulate a simple food ordering system within a campus environment.
 
 The project demonstrates core Object-Oriented Programming (OOP) principles such as:
@@ -15,7 +15,7 @@ The system handles food ordering operations and sends notifications to users usi
 
 ---
 
-## 🎯 Project Purpose
+##  Project Purpose
 The main purpose of this project is to:
 - Practice Object-Oriented Programming (OOP) in Java
 - Understand and apply design patterns (Factory Pattern)
@@ -24,14 +24,14 @@ The main purpose of this project is to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Java (JDK 8+)
 - Eclipse IDE
 - Object-Oriented Programming (OOP)
 
 ---
 
-## ▶️ Instructions to Compile and Run the Project
+##  Instructions to Compile and Run the Project
 
 Open a terminal in the project directory and run:
 
