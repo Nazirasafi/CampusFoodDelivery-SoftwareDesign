@@ -42,3 +42,12 @@ Then run the program using:
 ```bash
 java -cp src CampusFoodOrderService
 ```
+
+## Expected Output
+
+When the program runs, it simulates a campus food ordering process and sends different types of notifications to the user.
+
+The console output may include messages such as:
+- Email notification sent
+- SMS notification sent
+- Push notification sent
